@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ylyra&label=Profile%20views&color=0e75b6&style=flat" alt="ylyra" /> </p>
+<p>&nbsp;
+  <a href="https://www.buymeacoffee.com/ylyra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="ylyra" /></a>
+  <a href="https://twitter.com/ylyra1" target="blank"><img src="https://img.shields.io/twitter/follow/ylyra1?logo=twitter&style=for-the-badge" alt="ylyra1" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ylyra&label=Profile%20views&color=0e75b6&style=flat" alt="ylyra" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/ylyra1" target="blank"><img src="https://img.shields.io/twitter/follow/ylyra1?logo=twitter&style=for-the-badge" alt="ylyra1" /></a> </p>
+<p align="left">  </p>
 
 - 🔭 I’m currently working on [axios-docs-translation](https://github.com/ylyra/axios-docs)
 
