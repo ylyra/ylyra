@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **yanlyra3@gmail.com**
 
-- 📄 Know about my experiences [https://yanlyra.com.br/resume.pdf](https://yanlyra.com.br/resume.pdf)
-
 - ⚡ Fun fact **I'm a blue belt in Brazilian Jiu-Jitsu**
 
 <h3 align="left">Connect with me:</h3>
