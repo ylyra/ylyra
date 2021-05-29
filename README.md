@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://twitter.com/ylyra1" target="blank"><img src="https://img.shields.io/twitter/follow/ylyra1?logo=twitter&style=for-the-badge" alt="ylyra1" /></a>
-  ![](https://komarev.com/ghpvc/?username=ylyra&label=Profile%20views&color=0e75b6&style=flat-square)
+  <img src="https://komarev.com/ghpvc/?username=ylyra&label=Profile%20views&color=0e75b6&style=flat-square" alt="ylyra" />
 </p>
 
 - 🌱 I’m currently learning **ReactJS & Web Designer**
