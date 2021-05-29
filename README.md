@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<p>
+<p align="center">
   <a href="https://twitter.com/ylyra1" target="blank"><img src="https://img.shields.io/twitter/follow/ylyra1?logo=twitter&style=for-the-badge" alt="ylyra1" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ylyra&label=Profile%20views&color=0e75b6&style=flat" alt="ylyra" />
+  ![](https://komarev.com/ghpvc/?username=ylyra&label=Profile%20views&color=0e75b6&style=flat-square)
 </p>
 
 - 🌱 I’m currently learning **ReactJS & Web Designer**
