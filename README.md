@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS & Web Designer**
 
-- 👨‍💻 All of my projects are available at [https://yanlyra.com.br/](https://yanlyra.com.br/)
+- 👨‍💻 All of my projects are available at [https://yanlyra.dev/](https://yanlyra.dev/)
 
 - 📫 How to reach me **yanlyra3@gmail.com**
 
