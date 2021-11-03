@@ -6,6 +6,12 @@
 - 📫 How to reach me **yanlyra3@gmail.com**
 - ⚡ Fun fact **I'm a blue belt in Brazilian Jiu-Jitsu**
 
+A little more about me... with npm installed, just type the following command on your console:
+
+```bash
+npx ylyra
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/ylyra1" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="ylyra1" /></a>
