@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **ReactJS & Web Designer**
+- 🌱 I’m currently learning **More of ReactJS**
 - 👨‍💻 All of my projects are available at [https://yanlyra.dev/](https://yanlyra.dev/)
 - 📫 How to reach me **yanlyra3@gmail.com**
 - ⚡ Fun fact **I'm a blue belt in Brazilian Jiu-Jitsu**
