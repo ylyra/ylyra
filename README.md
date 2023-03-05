@@ -38,10 +38,10 @@ npx ylyra
 ![sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![materialize](https://img.shields.io/badge/Materialize-ee6e73?style=for-the-badge&logo=materializecss&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/Tailwind-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/Chakra-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![chakra-ui](https://img.shields.io/badge/Chakra-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![react-hook-form](https://img.shields.io/badge/React_Hook_Form-ec5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
+![radix-ui](https://img.shields.io/badge/Radix-0ac5b3?style=for-the-badge&logo=radix-ui&logoColor=white)
 
 #### :computer: Back-End Development
 
