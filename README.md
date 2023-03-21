@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **More of ReactJS**
-- 👨‍💻 All of my projects are available at [https://yanlyra.dev/](https://yanlyra.dev/)
+- 👨‍💻 All of my projects are available at [https://yanlyra.vercel.app](https://yanlyra.vercel.app)
 - 📫 How to reach me **yanlyra3@gmail.com**
 - ⚡ Fun fact **I'm a blue belt in Brazilian Jiu-Jitsu**
 
