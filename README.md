@@ -66,6 +66,6 @@ _____
 <a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ylyra&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&title_color=7159c1&icon_color=7159c1&layout=compact" /></a>
 </p> 
  
-<p align="center">
-<a><img src="https://github-readme-stats.vercel.app/api?username=ylyra&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&title_color=7159c1&icon_color=7159c1&hide=stars,issues" /></a>
-</p>
+<!-- <p align="center"> -->
+<!-- <a><img src="https://github-readme-stats.vercel.app/api?username=ylyra&show_icons=true&hide_border=true&count_private=true&theme=vision-friendly-dark&title_color=7159c1&icon_color=7159c1&hide=stars,issues" /></a> -->
+<!-- </p> -->
