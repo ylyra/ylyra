@@ -27,6 +27,7 @@ npx ylyra
 ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![bun](https://img.shields.io/badge/Bun-f9f1e1.svg?style=for-the-badge&logo=bun&logoColor=black)
 
 #### :computer: Front-End Development
 
