@@ -3,14 +3,7 @@
 
 - 🌱 I’m currently learning **More of ReactJS**
 - 👨‍💻 All of my projects are available at [https://yanlyra.vercel.app](https://yanlyra.vercel.app)
-- 📫 How to reach me **yanlyra3@gmail.com**
-- ⚡ Fun fact **I'm a blue belt in Brazilian Jiu-Jitsu**
-
-A little more about me... with npm installed, just type the following command on your console:
-
-```bash
-npx ylyra
-```
+- 📫 How to reach me [https://www.linkedin.com/in/ylyra/](https://www.linkedin.com/in/ylyra/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
