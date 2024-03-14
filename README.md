@@ -1,4 +1,3 @@
-<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4463F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%4B%2C+I'm+Yan;" alt="Typing SVG" /></a></p>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 - 🌱 I’m currently learning **More of ReactJS**
